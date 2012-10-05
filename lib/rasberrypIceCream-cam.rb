@@ -5,3 +5,5 @@ module RasberrypIceCream
     # Your code goes here...
   end
 end
+
+require "rasberrypIceCream-cam/camera"
